@@ -1,0 +1,7 @@
+{
+  "name": "TaraChemical",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
